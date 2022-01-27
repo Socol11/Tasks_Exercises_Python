@@ -1,2 +1,2 @@
 # Задачи и упражнения по python
-Задачи по python и решения
+[Простые задачи по python и решения](https://github.com/Socol11/exercises/blob/main/Exercises.ipynb)
